@@ -1,3 +1,5 @@
-Resolution: 3744X2196
+Please refer to the image files for content ideas.
 
-Format: PNG
+Poster Resolution: 3744X2196
+
+Poster File Format: PNG
